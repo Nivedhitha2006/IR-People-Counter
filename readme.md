@@ -36,7 +36,7 @@ File: `queue_counter.ino`
 ## ▶️ Working
 - IR sensor detects when a person crosses
 - Arduino increases count
-- Arduino Inbuilt LED blinks for each count
+- LED Inbuilt in arduino blinks for each count
 - Misalignment is detected if movement is too fast
 
 ## 📊 Output
